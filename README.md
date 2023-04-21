@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄I'm new to the open source community。
+
 ![Dragonchu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonchu)
