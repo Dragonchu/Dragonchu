@@ -1,21 +1,16 @@
 ### Hi there 👋
 
+😄I'm new to the open source community。
+
 <!--
 **Dragonchu/Dragonchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-😄I'm new to the open source community。
+- 🔭 I’m currently working on DcVM
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=DcVm)](https://github.com/Dragonchu/DcVm)
+- 🌱 I’m currently learning Rust and Jvm
 
 ![Dragonchu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonchu&show_icons=true&count_private=true)
 
