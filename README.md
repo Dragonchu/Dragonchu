@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on DcVM
+- 🔭 I’m currently working on DcVm
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=DcVm)](https://github.com/Dragonchu/DcVm)
   
