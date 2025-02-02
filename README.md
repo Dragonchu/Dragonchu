@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Dragonchu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonchu&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonchu&layout=compact)&exclude_repo=MyTwitter,littleScheduler](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonchu&layout=compact&exclude_repo=MyTwitter,littleScheduler](https://github.com/anuraghazra/github-readme-stats)
