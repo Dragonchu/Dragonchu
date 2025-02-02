@@ -2,7 +2,7 @@
 <h3 align="left">I'm new to the open source community。</h3>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonchu&exclude_repo=MyTwitter,littleScheduler,MyTwitterPHP,Dragonchu.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
@@ -16,4 +16,4 @@
 
 
 ![Dragonchu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragonchu&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonchu&exclude_repo=MyTwitter,littleScheduler,MyTwitterPHP,Dragonchu.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
