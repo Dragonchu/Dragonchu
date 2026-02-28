@@ -34,31 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Dragonchu/manyjson">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=manyjson&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dragonchu/DcVm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=DcVm&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dragonchu/AgentPollen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=AgentPollen&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dragonchu/terminal-gym">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=terminal-gym&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dragonchu/SwitchSources">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=SwitchSources&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dragonchu/BlackHoleTimer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dragonchu&repo=BlackHoleTimer&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
