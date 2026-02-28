@@ -12,9 +12,8 @@
 
 ## 🙋 About Me
 
-- 🔭 Currently building **[manyjson](https://github.com/Dragonchu/manyjson)** – keep your JSON files together and visualize their relationships
+- 🔭 Currently building **[AgentPollen](https://github.com/Dragonchu/AgentPollen)**
 - 🦀 Fascinated by systems programming – implemented a **[JVM in pure Rust](https://github.com/Dragonchu/DcVm)**
-- 🤖 Exploring AI agents with **[AgentPollen](https://github.com/Dragonchu/AgentPollen)**
 - 🐧 Neovim enthusiast – check out my **[Config](https://github.com/Dragonchu/Config)**
 - 🌱 Always learning and contributing to the open source community
 
