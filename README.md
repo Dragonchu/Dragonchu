@@ -12,7 +12,7 @@
 
 ## 🙋 About Me
 
-- 🔭 Currently building **[AgentPollen](https://github.com/Dragonchu/AgentPollen)**
+- 🔭 Currently building **[reloopy](https://github.com/Dragonchu/reloopy)**
 - 🦀 Fascinated by systems programming – implemented a **[JVM in pure Rust](https://github.com/Dragonchu/DcVm)**
 - 🐧 Neovim enthusiast – check out my **[Config](https://github.com/Dragonchu/Config)**
 - 🌱 Always learning and contributing to the open source community
